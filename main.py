@@ -11,11 +11,11 @@ logging.basicConfig(
 def date():
     current_date = datetime.datetime.now().date()
 
-    target_date = datetime.date(2022, 8, 1)
+    target_date = datetime.date(2025, 9, 9)
 
     days_since = (current_date - target_date).days
 
-    text=f"It has been {days_since} days since Bakugou Katsuki died."
+    text=f"It has been {days_since} days since Haru Urara died."
     return text
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
