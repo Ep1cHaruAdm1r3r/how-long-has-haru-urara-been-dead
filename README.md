@@ -1,5 +1,5 @@
-# How long has Bakugou Katsuki been dead?
-As the name suggests, this Python script counts how many days has it been since the release of BNHA chapter 361 and posts it to Telegram
+# How long has Haru Urara been dead?
+As the name suggests, this Python script counts how many days has it been since the said racehorse's death and posts it to Telegram
 
 ### To run the bot
 - You need at least Python 3.9
